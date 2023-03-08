@@ -33,3 +33,5 @@ For example, build a todo list application with a React frontend interface and a
     Read a list of all todos
     Update an individual todo
     Delete a todo
+    A Todo can be tagged with a Category, so that each todo belongs to a category and each category has many todos.
+    

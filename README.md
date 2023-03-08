@@ -38,3 +38,15 @@ For example, build a todo list application with a React frontend interface and a
     
     Getting Started
     
+
+Backend Setup
+
+This repository has all the starter code needed to get a Sinatra backend up and running. Fork and clone this repository to get started. Then, run bundle install to install the gems.
+
+Important: Be sure you fork a copy of the repo into your GitHub account before cloning it. You can do this by using the link above or by clicking the "Octocat" button at the top of this page, then clicking "Fork" in the upper right corner of the repo page.
+
+The app/controllers/application_controller.rb file has an example GET route handler. Replace this route with routes for your project.
+
+You can start your server with:
+
+$ bundle exec rake server

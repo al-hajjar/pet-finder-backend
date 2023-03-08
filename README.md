@@ -50,3 +50,15 @@ The app/controllers/application_controller.rb file has an example GET route hand
 You can start your server with:
 
 $ bundle exec rake server
+
+This will run your server on port http://localhost:9292.
+Frontend Setup
+
+Your backend and your frontend should be in two different repositories.
+
+Create a new repository in a separate folder with a React app for your frontend. To do this, cd out of the backend project directory, and use create-react-app to generate the necessary code for your React frontend:
+
+$ npx create-react-app my-app-frontend
+
+After creating the project locally, you should also create a repository on GitHub to host your repo and help collaborate, if you're working with a partner.
+

@@ -35,3 +35,6 @@ For example, build a todo list application with a React frontend interface and a
     Delete a todo
     A Todo can be tagged with a Category, so that each todo belongs to a category and each category has many todos.
     
+    
+    Getting Started
+    
